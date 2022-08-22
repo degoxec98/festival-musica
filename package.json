@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/degoxec98/festival-musica/issues"
   },
-  "homepage": "https://github.com/degoxec98/festival-musica#readme"
+  "homepage": "https://github.com/degoxec98/festival-musica#readme",
+  "dependencies": {
+    "sass": "^1.54.5"
+  }
 }
