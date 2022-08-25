@@ -1,7 +1,7 @@
 node_modules/
-build/
+src/
 
-.DS_Store
-._.DS_Store
-._img
-._video
+gulpfile.js
+package-lock.json
+package.json
+
